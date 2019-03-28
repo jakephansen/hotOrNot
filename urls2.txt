@@ -1,0 +1,15 @@
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+California+Berkeley&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=UCLA&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+Virginia&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+Michigan&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=UNC+Chapel+Hill&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=William+and+Mary&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Georgia+Tech&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=UCSB&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+California+Irvine&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=UCSD&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+Florida&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+California+Davis&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+Wisconsin&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Penn+State&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+Illinois&facetSearch=true

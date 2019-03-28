@@ -1,0 +1,2 @@
+school_ids = [1152, 4718]
+college_urls = ["https://www.ratemyprofessors.com/search.jsp?query=webb+institute", "https://www.ratemyprofessors.com/search.jsp?query=Northwestern+Polytechnic+University"]

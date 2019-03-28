@@ -1,0 +1,15 @@
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Princeton+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Harvard+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Chicago+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Yale+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Columbia+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=MIT&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Stanford+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=University+of+Pennsylvania&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Duke+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Dartmouth+College&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Johns+Hopkins+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Northwestern+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Brown+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Cornell+University&facetSearch=true
+http://www.ratemyprofessors.com/search.jsp?queryBy=teacherName&queryoption=HEADER&query=Rice+University&facetSearch=true

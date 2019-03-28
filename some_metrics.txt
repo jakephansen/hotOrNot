@@ -1,0 +1,181 @@
+Tylers-MacBook-Pro-3:hot-or-not tylerlaredo$ time python classifier.py test
+1
+C:  0.1
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  1.0
+Avg distance:  0.337209302326
+Accuracy:  0.643410852713
+C:  10.0
+Avg distance:  0.27519379845
+Accuracy:  0.604651162791
+C:  100.0
+Avg distance:  0.15503875969
+Accuracy:  0.565891472868
+C:  1000.0
+Avg distance:  0.116279069767
+Accuracy:  0.527131782946
+C:  10000.0
+Avg distance:  0.046511627907
+Accuracy:  0.53488372093
+C:  100000.0
+Avg distance:  0.0968992248062
+Accuracy:  0.519379844961
+C:  1000000.0
+Avg distance:  0.100775193798
+Accuracy:  0.53488372093
+C:  10000000.0
+Avg distance:  0.116279069767
+Accuracy:  0.558139534884
+C:  100000000.0
+Avg distance:  0.0968992248062
+Accuracy:  0.53488372093
+
+real	0m6.292s
+user	0m6.113s
+sys	0m0.171s
+Tylers-MacBook-Pro-3:hot-or-not tylerlaredo$ time python classifier.py test
+1
+C:  1e-05
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.0001
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.001
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.01
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.1
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  1.0
+Avg distance:  0.337209302326
+Accuracy:  0.643410852713
+C:  10.0
+Avg distance:  0.27519379845
+Accuracy:  0.604651162791
+C:  100.0
+Avg distance:  0.162790697674
+Accuracy:  0.565891472868
+C:  1000.0
+Avg distance:  0.112403100775
+Accuracy:  0.519379844961
+C:  10000.0
+Avg distance:  0.112403100775
+Accuracy:  0.550387596899
+C:  100000.0
+Avg distance:  0.0968992248062
+Accuracy:  0.53488372093
+C:  1000000.0
+Avg distance:  0.104651162791
+Accuracy:  0.511627906977
+C:  10000000.0
+Avg distance:  0.116279069767
+Accuracy:  0.542635658915
+C:  100000000.0
+Avg distance:  0.112403100775
+Accuracy:  0.527131782946
+
+real	0m7.227s
+user	0m7.063s
+sys	0m0.171s
+Tylers-MacBook-Pro-3:hot-or-not tylerlaredo$ time python classifier.py test
+1
+C:  1e-05
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.0001
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.001
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.01
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.1
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  1.0
+Avg distance:  0.337209302326
+Accuracy:  0.643410852713
+C:  10.0
+Avg distance:  0.27519379845
+Accuracy:  0.604651162791
+C:  100.0
+Avg distance:  0.162790697674
+Accuracy:  0.565891472868
+C:  1000.0
+Avg distance:  0.127906976744
+Accuracy:  0.542635658915
+C:  10000.0
+Avg distance:  0.112403100775
+Accuracy:  0.53488372093
+C:  100000.0
+Avg distance:  0.112403100775
+Accuracy:  0.527131782946
+C:  1000000.0
+Avg distance:  0.100775193798
+Accuracy:  0.542635658915
+C:  10000000.0
+Avg distance:  0.116279069767
+Accuracy:  0.53488372093
+C:  100000000.0
+Avg distance:  0.131782945736
+Accuracy:  0.53488372093
+
+real	0m7.337s
+user	0m7.164s
+sys	0m0.181s
+Tylers-MacBook-Pro-3:hot-or-not tylerlaredo$ time python classifier.py test
+1
+C:  1e-05
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.0001
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.001
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.01
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  0.1
+Avg distance:  0.375968992248
+Accuracy:  0.666666666667
+C:  1.0
+Avg distance:  0.337209302326
+Accuracy:  0.643410852713
+C:  10.0
+Avg distance:  0.27519379845
+Accuracy:  0.604651162791
+C:  100.0
+Avg distance:  0.15503875969
+Accuracy:  0.565891472868
+C:  1000.0
+Avg distance:  0.077519379845
+Accuracy:  0.527131782946
+C:  10000.0
+Avg distance:  0.104651162791
+Accuracy:  0.542635658915
+C:  100000.0
+Avg distance:  0.0542635658915
+Accuracy:  0.527131782946
+C:  1000000.0
+Avg distance:  0.0968992248062
+Accuracy:  0.527131782946
+C:  10000000.0
+Avg distance:  0.116279069767
+Accuracy:  0.550387596899
+C:  100000000.0
+Avg distance:  0.104651162791
+Accuracy:  0.550387596899
+
+real	0m7.361s
+user	0m7.183s
+sys	0m0.180s
+Tylers-MacBook-Pro-3:hot-or-not tylerlaredo$ 
